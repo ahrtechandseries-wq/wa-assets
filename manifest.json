@@ -1,15 +1,16 @@
 {
-  "name": "NexFlix",
-  "short_name": "NexFlix",
-  "description": "NexFlix - Watch the latest Hollywood, Bollywood, and Bengali movies and series for free. Your ultimate destination for entertainment.",
-  "start_url": "/",
-  "scope": "/",
+  "version": "1.0",
+  "id": "/",
+  "name": "NexFlix ",
+  "short_name": "NexFlix ",
+  "description": "Official App for Movies and Series",
+  "start_url": "https://r-nexflixx.blogspot.com",
   "display": "standalone",
   "orientation": "any",
+  "dir": "auto",
+  "lang": "en-US",
   "background_color": "#000000",
   "theme_color": "#000000",
-  "lang": "en-US",
-  "dir": "auto",
   "prefer_related_applications": false,
   "icons": [
     {
@@ -24,34 +25,85 @@
       "purpose": "any maskable"
     },
     {
-      "src": "https://i.ibb.co/twwNpjX4/bda29baa72d0.png",
+      "src": "https://i.ibb.co/Z1XRwsCJ/08749aab9327.png",
       "sizes": "48x48",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://i.ibb.co/HfnJMnWS/fff56c420267.png",
+      "src": "https://i.ibb.co/VYy6Js22/e460e6b78325.png",
+      "sizes": "57x57",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/v4mv6PJS/e7cfde0c6359.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/SXGFJ0pK/1f60290b2a46.png",
+      "sizes": "70x70",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/nNQ5YzF0/d214052f5a9c.png",
       "sizes": "72x72",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://i.ibb.co/6cwVKCks/bfed492874db.png",
+      "src": "https://i.ibb.co/rKFZdfYL/43fe379b9d92.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/xS51hxvr/dd9603b01712.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/sd677HdQ/217004d4d9e0.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/tMtNTJMb/13edd4360820.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/Lj2nMSd/a7ec91cee51f.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://i.ibb.co/VWY14Bbg/6e8b60b316c5.png",
+      "src": "https://i.ibb.co/21NSBWwQ/21cca542d803.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/jZfCRCqF/577e2a6cdee7.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/mrPX1RRC/fa0bc05539c4.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://i.ibb.co/9kqwkf22/9a846fde2f1c.png",
+      "src": "https://i.ibb.co/TqpxzyHt/05b0ad68218c.png",
+      "sizes": "310x310",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/RTKZGgHm/c0bd3385e02b.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ]
-}
+    }
+      
