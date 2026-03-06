@@ -5,7 +5,7 @@
   "short_name": "NexFlix ",
   "description": "Official App for Movies and Series",
   "start_url": "https://r-nexflixx.blogspot.com",
-  "display": "standalone",
+  "display": "Portrait",
   "orientation": "any",
   "dir": "auto",
   "lang": "en-US",
