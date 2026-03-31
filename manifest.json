@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
+  "version": "2.1",
   "id": "/",
   "name": "NexFlix",
   "short_name": "NexFlix",
@@ -13,36 +13,37 @@
     {
       "src": "https://i.ibb.co/RTKZGgHm/c0bd3385e02b.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
       "src": "https://i.ibb.co/RTKZGgHm/c0bd3385e02b.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "maskable"
     }
   ],
   "screenshots": [
     {
       "src": "https://i.postimg.cc/VvhdfqN4/20260331-194012.jpg",
       "sizes": "1080x1920",
-      "type": "image/png",
+      "type": "image/jpeg",
       "form_factor": "narrow",
-      "label": "NexFlix Home Screen"
+      "label": "Home Screen"
     },
     {
       "src": "https://i.postimg.cc/FsJKbJRB/20260331-194042.jpg",
       "sizes": "1080x1920",
-      "type": "image/png",
+      "type": "image/jpeg",
       "form_factor": "narrow",
       "label": "Movie Details"
-    }
+    },
     {
       "src": "https://i.postimg.cc/ZqJKh7L7/20260331-194053.jpg",
       "sizes": "1080x1920",
-      "type": "image/png",
+      "type": "image/jpeg",
       "form_factor": "narrow",
-      "label": "Movie Details"
+      "label": "Trending Now"
     }
   ]
 }
