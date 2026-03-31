@@ -4,18 +4,15 @@
   "name": "NexFlix",
   "short_name": "NexFlix",
   "description": "Official App for Movies and Series",
-  "start_url": "https://www.rnexflix.top/",
+  "start_url": "https://www.rnexflix.top/?utm_source=pwa",
   "display": "standalone",
-  "orientation": "portrait",
-  "dir": "auto",
-  "lang": "en-US",
+  "orientation": "portrait", 
   "background_color": "#000000",
   "theme_color": "#000000",
-  "prefer_related_applications": false,
   "icons": [
     {
-      "src": "https://i.ibb.co/4H4bk1y/c34d857fb6ab.png",
-      "sizes": "16x16",
+      "src": "https://i.ibb.co/RTKZGgHm/c0bd3385e02b.png",
+      "sizes": "192x192",
       "type": "image/png"
     },
     {
@@ -23,32 +20,6 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
-    }
-  ],
-  "shortcuts": [
-    {
-      "name": "Search Movies",
-      "url": "https://www.rnexflix.top/search",
-      "icons": [
-        {
-          "src": "https://i.ibb.co/mrPX1RRC/fa0bc05539c4.png",
-          "sizes": "192x192"
-        }
-      ]
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "APNAR_SCREENSHOT_LINK_1.jpg",
-      "sizes": "1080x1920",
-      "type": "image/jpeg",
-      "form_factor": "narrow"
-    },
-    {
-      "src": "APNAR_SCREENSHOT_LINK_2.jpg",
-      "sizes": "1080x1920",
-      "type": "image/jpeg",
-      "form_factor": "narrow"
     }
   ]
 }
