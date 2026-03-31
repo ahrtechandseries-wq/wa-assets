@@ -34,27 +34,24 @@
 
   "screenshots": [
     {
-      "src": "https://i.postimg.cc/VvhdfqN4/20260331-194012.jpg",
+      "src": "https://i.ibb.co.com/pSNG2wk/20260331-194012.jpg",
       "sizes": "1080x1920",
       "type": "image/jpeg",
-      "form_factor": "narrow",
-      "platform": "android",
+      "form_factor": "narrow"
       "label": "Home Screen"
     },
     {
-      "src": "https://i.postimg.cc/FsJKbJRB/20260331-194042.jpg",
+      "src": "https://i.ibb.co.com/VcDRZqNB/20260331-194042.jpg",
       "sizes": "1080x1920",
       "type": "image/jpeg",
-      "form_factor": "narrow",
-      "platform": "android",
+      "form_factor": "narrow"
       "label": "Movie Details"
     },
     {
-      "src": "https://i.postimg.cc/ZqJKh7L7/20260331-194053.jpg",
+      "src": "https://i.ibb.co.com/9HD96H6M/20260331-194053.jpg",
       "sizes": "1080x1920",
       "type": "image/jpeg",
-      "form_factor": "narrow",
-      "platform": "android",
+      "form_factor": "narrow"
       "label": "Trending"
     }
   ]
