@@ -2,12 +2,12 @@
   "version": "1.0",
   "id": "/",
   "name": "NexFlix — Watch Movies, Series & Anime",
-  "short_name": "NexFlix ",
+  "short_name": "NexFlix",
   "description": "Stream the latest HD movies, trending TV series, and exclusive anime content for free on NexFlix. Your ultimate entertainment destination.",
   "start_url": "/",
   "dir": "auto",
   "lang": "en-US",
-  "orientation": "Vertical",
+  "orientation": "portrait",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#000000",
@@ -141,7 +141,7 @@
       "name": "Watch Movies",
       "short_name": "Movies",
       "description": "Explore our huge collection of movies.",
-      "url": " /search/label/Movie",
+      "url": "/search/label/Movie",
       "icons": [
         {
           "src": "https://i.ibb.co/bgSTkXJK/2b2560853fe1.png",
@@ -153,7 +153,7 @@
       "name": "Web Series",
       "short_name": "Series",
       "description": "Binge-watch the latest web series.",
-      "url": "search/label/TV%20Series",
+      "url": "/search/label/TV%20Series",
       "icons": [
         {
           "src": "https://i.ibb.co/bgSTkXJK/2b2560853fe1.png",
@@ -175,3 +175,4 @@
     }
   ]
     }
+      
