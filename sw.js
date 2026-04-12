@@ -1,13 +1,4 @@
-self.addEventListener("install", (e) => {
-  self.skipWaiting();
-});
+importScripts("https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.sw.js");
 
-self.addEventListener("activate", (e) => {
-  return self.clients.claim();
-});
-
-self.addEventListener("fetch", (event) => {
-  event.respondWith(
-    fetch(event.request).catch(() => caches.match(event.request))
-  );
-});
+self.addEventListener('install', () => self.skipWaiting());
+self.addEventListener('activate', () => console.log('NexFlix PWA Active'));
