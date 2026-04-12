@@ -1,178 +1,18 @@
 {
-  "version": "1.0",
-  "id": "/",
-  "name": "NexFlix — Watch Movies, Series & Anime",
+  "name": "NexFlix",
   "short_name": "NexFlix",
   "description": "Stream the latest HD movies, trending TV series, and exclusive anime content for free on NexFlix. Your ultimate entertainment destination.",
   "start_url": "/",
-  "dir": "auto",
-  "lang": "en-US",
-  "orientation": "portrait",
   "display": "standalone",
-  "prefer_related_applications": false,
-  "background_color": "#000000",
-  "theme_color": "#E50914",
+  "background_color": "#0a0000",
+  "theme_color": "#e50914",
+  "orientation": "portrait",
   "icons": [
-    {
-      "src": "https://i.ibb.co/TDNZQZLZ/f17a9837dbce.png",
-      "sizes": "16x16",
-      "type": "image/png"
-    },
-    {
-      "src": "https://i.ibb.co/Mxcj19hW/1afd5592fab9.png",
-      "sizes": "32x32",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://i.ibb.co/tPhZts9n/ccb8ff7704ee.png",
-      "sizes": "48x48",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://i.ibb.co/Y4NgV1Mw/1b96f506ada0.png",
-      "sizes": "57x57",
-      "type": "image/png"
-    },
-    {
-      "src": "https://i.ibb.co/Z6vTHrNP/2a3f3c617036.png",
-      "sizes": "60x60",
-      "type": "image/png"
-    },
-    {
-      "src": "https://i.ibb.co/35CvNq8Z/88c3476da00f.png",
-      "sizes": "70x70",
-      "type": "image/png"
-    },
-    {
-      "src": "https://i.ibb.co/s9k98MXR/1e82b7009c0c.png",
-      "sizes": "72x72",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://i.ibb.co/v69GqPmx/d3e7bc5d474d.png",
-      "sizes": "76x76",
-      "type": "image/png"
-    },
-    {
-      "src": "https://i.ibb.co/bgSTkXJK/2b2560853fe1.png",
-      "sizes": "96x96",
-      "type": "image/png"
-    },
-    {
-      "src": "https://i.ibb.co/mFrBz19h/8a8afbb3cfc9.png",
-      "sizes": "114x114",
-      "type": "image/png"
-    },
-    {
-      "src": "https://i.ibb.co/jZywd6fJ/c79980d6353b.png",
-      "sizes": "120x120",
-      "type": "image/png"
-    },
-    {
-      "src": "https://i.ibb.co/cGF8TS8/be20d50994f9.png",
-      "sizes": "144x144",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://i.ibb.co/0pK8XhSj/37b7d343cac7.png",
-      "sizes": "152x152",
-      "type": "image/png"
-    },
-    {
-      "src": "https://i.ibb.co/B5xvpBW8/f08bfcd442fd.png",
-      "sizes": "180x180",
-      "type": "image/png"
-    },
-    {
-      "src": "https://i.ibb.co/Q7qHQRHx/b6e363261dde.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://i.ibb.co/S42QwDdC/30b85bfa8f2f.png",
-      "sizes": "310x310",
-      "type": "image/png"
-    },
     {
       "src": "https://i.ibb.co/ycbgxNjg/50a5e599037e.png",
       "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "https://i.ibb.co/1JPBmWqt/04402eff7f4a.png",
       "type": "image/png",
-      "sizes": "540x1077",
-      "form_factor": "narrow"
-    },
-    {
-      "src": "https://i.ibb.co/99JZw1Lr/ec34fcc19879.png",
-      "type": "image/png",
-      "sizes": "540x1076",
-      "form_factor": "narrow"
-    },
-    {
-      "src": "https://i.ibb.co/YCwDC96/839470c1c83b.png",
-      "type": "image/png",
-      "sizes": "540x1004",
-      "form_factor": "narrow"
-    }
-  ],
-  "shortcuts": [
-    {
-      "name": "Search Movies",
-      "short_name": "Search",
-      "description": "Find your favorite movies and shows.",
-      "url": "/search?q=",
-      "icons": [
-        {
-          "src": "https://i.ibb.co/bgSTkXJK/2b2560853fe1.png",
-          "sizes": "96x96"
-        }
-      ]
-    },
-    {
-      "name": "Watch Movies",
-      "short_name": "Movies",
-      "description": "Explore our huge collection of movies.",
-      "url": "/search/label/Movie",
-      "icons": [
-        {
-          "src": "https://i.ibb.co/bgSTkXJK/2b2560853fe1.png",
-          "sizes": "96x96"
-        }
-      ]
-    },
-    {
-      "name": "Web Series",
-      "short_name": "Series",
-      "description": "Binge-watch the latest web series.",
-      "url": "/search/label/TV%20Series",
-      "icons": [
-        {
-          "src": "https://i.ibb.co/bgSTkXJK/2b2560853fe1.png",
-          "sizes": "96x96"
-        }
-      ]
-    },
-    {
-      "name": "Anime Collection",
-      "short_name": "Anime",
-      "description": "Watch the best anime series and movies.",
-      "url": "/search/label/Anime",
-      "icons": [
-        {
-          "src": "https://i.ibb.co/bgSTkXJK/2b2560853fe1.png",
-          "sizes": "96x96"
-        }
-      ]
+      "purpose": "any maskable"
     }
   ]
-    }
-      
+}
