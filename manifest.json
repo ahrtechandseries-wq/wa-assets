@@ -1,18 +1,48 @@
 {
   "name": "NexFlix",
   "short_name": "NexFlix",
-  "description": "Stream the latest HD movies, trending TV series, and exclusive anime content for free on NexFlix. Your ultimate entertainment destination.",
+  "description": "Stream HD movies, series and anime free on NexFlix.",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#0a0000",
   "theme_color": "#e50914",
   "orientation": "portrait",
+  "lang": "en",
+
   "icons": [
+    {
+      "src": "https://i.ibb.co/ycbgxNjg/50a5e599037e.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
     {
       "src": "https://i.ibb.co/ycbgxNjg/50a5e599037e.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
+    }
+  ],
+
+  "screenshots": [
+    {
+      "src": "https://i.ibb.co.com/FLgrjG6S/20260528-085003.jpg",
+      "sizes": "1080x1920",
+      "type": "image/jpeg",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://i.ibb.co.com/pBNRk3hM/20260528-085347.jpg",
+      "sizes": "1080x1920",
+      "type": "image/jpeg",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://i.ibb.co.com/TBVq6G5c/20260528-085418.jpg",
+      "sizes": "1080x1920",
+      "type": "image/jpeg",
+      "form_factor": "narrow"
     }
   ]
 }
